@@ -1,0 +1,13 @@
+{
+  "background_color": "lightgreen",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/noun-checkbox.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Pikmin Bloom Checklist",
+  "description": "Makes it easier to quickly see which Decor Pikmin you are missing."
+}
