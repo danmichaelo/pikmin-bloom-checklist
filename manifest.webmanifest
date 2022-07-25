@@ -1,6 +1,6 @@
 {
   "background_color": "lightgreen",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
     {
       "src": "icon/android-chrome-192x192.png",
@@ -14,5 +14,6 @@
     }
   ],
   "name": "Pikmin Bloom Checklist",
-  "description": "Makes it easier to quickly see which Decor Pikmin you are missing."
+  "description": "Makes it easier to quickly see which Decor Pikmin you are missing.",
+  "start_url": "/"
 }
