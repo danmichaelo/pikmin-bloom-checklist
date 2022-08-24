@@ -4,29 +4,29 @@
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "description": "Makes it easier to quickly see which Decor Pikmin you are missing.",
+  "description": "Checklist that makes it easier to keep track of which Decor Pikmin you are missing.",
   "background_color": "#27cb2e",
   "theme_color": "#27cb2e",
   "lang": "en",
   "icons": [
     {
-      "src": "/icon/android-chrome-192x192.png",
+      "src": "/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-        "src": "/icon/android-chrome-512x512.png",
+        "src": "/icons/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
     },
     {
-      "src": "/icon/maskable_icon_x192.png",
+      "src": "/icons/maskable_icon_x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/icon/maskable_icon_x512.png",
+      "src": "/icons/maskable_icon_x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -34,9 +34,9 @@
   ],
   "screenshots": [
     {
-      "src": "/icon/screenshot_320x640.png",
+      "src": "/icons/screenshot_320x640.png",
       "sizes": "320x640",
-      "type": "image/gif"
+      "type": "image/png"
     }
   ]
 }
